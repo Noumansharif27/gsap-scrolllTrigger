@@ -42,6 +42,10 @@ body {
   justify-content: center;
 }
 
+#box-3 .child-box {
+  scale: 2;
+}
+
 .child-box {
   height: 200px;
   width: 200px;
